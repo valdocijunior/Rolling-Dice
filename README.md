@@ -10,6 +10,8 @@
 <img align="center" src="https://media2.giphy.com/media/eu66lQPQIvENqQK3ap/giphy.gif?cid=790b7611c1d605fd1a465c4b93f53f8dbaab6d279ceb71a1&rid=giphy.gif&ct=g"/>
 </p>
 
+You can fully run the page and roll the dice by clicking [here!](https://valdocijunior.github.io/Rolling-Dice/)
+
 ## Tech Stack
   - JavaScript
   - HTML
